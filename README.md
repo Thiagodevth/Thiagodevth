@@ -19,7 +19,7 @@
    </div>
 
       
-  <div align="center" margin-top="10px">
+  <div align="center" margin-top="30px">
     <h1 align="center">Redes Sociais</h1>
     <a href="https://www.instagram.com/thiaguinn_ofc/?next=%2F">
       <img align="center" alt="linkedin-icon" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
