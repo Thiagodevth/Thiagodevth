@@ -19,16 +19,17 @@
    </div>
 
       
-  <div align="center" margin-top="30px">
-    <h1 align="center" margin-top="30px">Redes Sociais</h1>
+  <div align="center">
+    <h1 align="center">Redes Sociais</h1>
     <a href="https://www.instagram.com/thiaguinn_ofc/?next=%2F">
-      <img align="center" alt="linkedin-icon" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+      <img align="center" alt=instagran-icon" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
     <a/>
     <a href="https://www.linkedin.com/in/thiagothfidelis/">
       <img align="center" alt="linkedin-icon" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     <a/>
     <a href="mailto: thiagofd341@gmail.com">
-      <img align="center" alt="linkedin-icon" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+      <img align="center" alt="email-icon" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     <a/>
   </div>
 </div>
+![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
