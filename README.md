@@ -24,9 +24,10 @@
     <a href = "mailto: work.luigi.fonseca@gmail.com">
       <img width="30" src="gmail.svg">
     </a>
-    <a href = "https://www.linkedin.com/in/thiagothfidelis/">
-      <img width="25" herf="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  
+      <img width="25" href="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
+
     <a href = "https://www.youtube.com/channel/UCd5Ivcm28R1C3fCQKbOx2cg">
       <img width="35" src="youtube.svg">
     </a>
