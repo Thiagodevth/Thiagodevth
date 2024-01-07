@@ -19,18 +19,17 @@
     <img align="center" height="60" width="70" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
    </div>
 
-       <br>
-    
-  <h1 align="center">Redes Sociais</h1>
-       <br>
-   <a href="https://www.instagram.com/thiaguinn_ofc/?next=%2F">
-     <img align="center" alt="linkedin-icon" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-   <a/>
+      
+  <div align="center">
+    <h1 align="center">Redes Sociais</h1>
+    <a href="https://www.instagram.com/thiaguinn_ofc/?next=%2F">
+      <img align="center" alt="linkedin-icon" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    <a/>
     <a href="https://www.linkedin.com/in/thiagothfidelis/">
-     <img align="center" alt="linkedin-icon" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+      <img align="center" alt="linkedin-icon" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
    <a/>
-    <a href="mailto: thiagofd341@gmail.com">
-     <img align="center" alt="linkedin-icon" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+   <a href="mailto: thiagofd341@gmail.com">
+      <img align="center" alt="linkedin-icon" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
    <a/>
-   
+  </div>
 </div>
