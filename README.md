@@ -18,8 +18,8 @@
     <img align="center" height="60" width="70" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
    </div>
 
-      
-  <div align="center">
+
+ <div align="center">
     <h1 align="center">Redes Sociais</h1>
     <a href="https://www.instagram.com/thiaguinn_ofc/?next=%2F">
       <img align="center" alt=instagran-icon" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
@@ -32,4 +32,10 @@
     <a/>
   </div>
 </div>
-![Snake animation](https://github.com/Thiagodevth/Thiagodevth/blob/output/github-contribution-grid-snake.svg)
+
+     
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Thiagodevth}/count.svg" /></p> 
+<br>
+</div>
