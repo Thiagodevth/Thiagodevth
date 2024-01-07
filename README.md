@@ -1,5 +1,10 @@
 ## Eai dev's, Thiaguinho aquiiii!
 
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=500&height=70&duration=6000&lines=Olá!+Tudo+bem?;+Sou+Thiago+E+Sou+Dev+FullStack!;" />
+</h1>
+
+
 <div>
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Thiagodevth&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagodevth&layout=compact&langs_count=16&theme=great-gatsby"/>
