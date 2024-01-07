@@ -21,6 +21,6 @@
     
   
   <h1 align="center">Redes Sociais</h1>
-   <img align="center" height="50" width="60" alt="nodejs-icon" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+   <img align="center" alt="nodejs-icon" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   
 </div>
