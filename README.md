@@ -8,7 +8,7 @@
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="left" height="300" alt="coding-time" src="./codigo.gif/code.gif">
+    <img align="left" height="400" alt="coding-time" src="./codigo.gif/code.gif">
         <br>
     <h1 align="center"> Conhecimento Nas Tecnologias </h1>
     <img align="center" height="60" width="70" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
