@@ -3,19 +3,18 @@
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=500&height=70&duration=6000&lines=Olá!+Tudo+bem?;+Sou+Thiago+E+Sou+Dev+FullStack!;" />
 </h1>
-
-
-
   
 <div>
    <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Thiagodevth&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagodevth&layout=compact&langs_count=16&theme=great-gatsby"/>
-</div>
+</div> 
+
+<br>
 <br>
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="left" height="300" alt="coding-time" src="./codigo.gif/code.gif">
+    <img align="left" height="250" alt="coding-time" src="./codigo.gif/code.gif">
         <br>
     <h1 align="center"> Minhas Tecnologias </h1>
     <img align="center" height="60" width="70" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -24,6 +23,12 @@
     <img align="center" height="60" width="70" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" height="60" width="70" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
    </div>
+
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
 
 
  <div align="center">
@@ -41,7 +46,7 @@
 </div>
 
      
-<div align="center" margin="10px">
+<div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Thiagodevth}/count.svg" /></p> 
 <br>
