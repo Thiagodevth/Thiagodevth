@@ -1,12 +1,12 @@
-## Eai dev's, Thiaguinho aquiiii!
+## Olá Mundo, Thiaguinho aquiiii!
 
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=500&height=70&duration=6000&lines=Olá!+Tudo+bem?;+Sou+Thiago+E+Sou+Dev+FullStack!;" />
 </h1>
   
-<div>
-   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Thiagodevth&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagodevth&layout=compact&langs_count=16&theme=great-gatsby"/>
+<div align="center">
+   <img  height="140em" src="https://github-readme-stats.vercel.app/api?username=Thiagodevth&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagodevth&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div> 
 
 <br>
@@ -16,7 +16,7 @@
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="./codigo.gif/code.gif">
         <br>
-    <h1 align="center"> Minhas Tecnologias </h1>
+    <h1 align="center">Tecnologias</h1>
     <img align="center" height="60" width="70" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" height="60" width="70" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" height="60" width="70" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
