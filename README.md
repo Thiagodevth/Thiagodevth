@@ -1,4 +1,4 @@
-## Olá Mundo, Thiaguinho aquiiii!
+## Olá Programadores, Thiaguinho Dev Aqui!
 
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=500&height=70&duration=6000&lines=Olá!+Tudo+bem?;+Sou+Thiago+E+Sou+Dev+Front-End!;" />
