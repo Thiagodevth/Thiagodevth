@@ -5,7 +5,7 @@
 </h1>
   
 <div align="center">
-   <img  height="140em" src="https://github-readme-stats.vercel.app/api?username=Thiagodevth&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img  height="140em" src="https://github-readme-stats.vercel.app/api?username=Thiagodevth&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagodevth&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div> 
 
@@ -13,24 +13,20 @@
 <br>
 
 <div  align="center"> 
-  <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="./codigo.gif/code.gif">
-        <br>
-    <h1 align="center">Tecnologias</h1>
+  <div style="display: inline_block">
+    <br>
+    <h1 align="center">Tecnologias Que Uso No Dia</h1>
     <img align="center" height="60" width="70" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" height="60" width="70" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" height="60" width="70" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" height="60" width="70" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" height="60" width="70" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
    </div>
-
    <br>
    <br>
    <br>
    <br>
    <br>
-
-
  <div align="center">
     <h1 align="center">Redes Sociais</h1>
     <a href="https://www.instagram.com/thiaguinn_ofc/?next=%2F">
@@ -44,7 +40,6 @@
     <a/>
   </div>
 </div>
-
      
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
