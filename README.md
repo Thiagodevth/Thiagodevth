@@ -43,7 +43,6 @@
      
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Thiagodevth}/count.svg" /></p> 
-  [![](https://komarev.com/ghpvc/?username=thiagodevth)]
+<p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=Thiagodevth" /></p> 
 <br>
 </div>
